@@ -1,0 +1,34 @@
+[
+    {
+        "book_name": "Tipping the Velvet",
+        "book_price": "£51.77"
+    },
+    {
+        "book_name": "Soumission",
+        "book_price": "£53.74"
+    },
+    {
+        "book_name": "Sharp Objects",
+        "book_price": "£50.10"
+    },
+    {
+        "book_name": "The Requiem Red",
+        "book_price": "£47.82"
+    },
+    {
+        "book_name": "The Black Maria",
+        "book_price": "£54.23"
+    },
+    {
+        "book_name": "Set Me Free",
+        "book_price": "£22.65"
+    },
+    {
+        "book_name": "Olio",
+        "book_price": "£33.34"
+    },
+    {
+        "book_name": "Libertarianism for Beginners",
+        "book_price": "£17.93"
+    }
+]
